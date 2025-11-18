@@ -1,6 +1,6 @@
 """
 Módulo para visualização de labirintos no console com cores.
-Autor: Rafael Marques
+Autor: Rafael Marques Radieddine
 Branch: feature/console-visualizer
 """
 
